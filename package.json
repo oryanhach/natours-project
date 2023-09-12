@@ -1,0 +1,14 @@
+{
+	"name": "starter",
+	"version": "1.0.0",
+	"description": "Landing page for natours",
+	"main": "index.js",
+	"scripts": {
+		"compile:sass": "sass --no-source-map sass/main.scss css/style.css -w"
+	},
+	"author": "Oryan",
+	"license": "ISC",
+	"devDependencies": {
+		"sass": "^1.66.1"
+	}
+}
