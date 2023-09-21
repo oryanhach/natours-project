@@ -8,4 +8,3 @@ Hello! This is the "Natours" project, created as part of the Udemy course "Advan
 
 -   HTML
 -   CSS & SASS
--   JavaScript (Vanilla)
